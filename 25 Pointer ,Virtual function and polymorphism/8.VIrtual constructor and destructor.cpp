@@ -1,0 +1,2 @@
+/* Virtual constructor and destructor
+   Virtual constructor and destructor cannot be created becasue aafai buj mula yetro concept vaya  paxi na bujhya book her */
